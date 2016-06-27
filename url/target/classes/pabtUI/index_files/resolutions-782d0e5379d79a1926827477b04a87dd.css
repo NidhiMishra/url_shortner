@@ -1,0 +1,15 @@
+#resolution-history-results {
+    overflow-x: scroll;
+}
+
+.heading {
+	cursor: pointer;
+}
+
+.resolutionsFormDateField, .resolutionsFormSelectField, .resolutionsFormBox, .resolutionsFormDateBox, .resolutionsFormSelectBox, .resolutionsLabel , .resolutionCheckBox {
+    width: 300px;
+    margin: 5px;
+    float: left;
+}
+
+.desc {display: none;}
